@@ -1,0 +1,11 @@
+pageobject\Artpage.class
+pageobject\Photos.class
+ArtnStock\stock\artrrunner.class
+ArtnStock\stock\TestAppRunner.class
+pageobject\Homepage.class
+StepDefination\Contributor.class
+StepDefination\home.class
+StepDefination\Steps.class
+StepDefination\TestArt.class
+ArtnStock\stock\homepagerunner.class
+pageobject\Contributorpage.class
